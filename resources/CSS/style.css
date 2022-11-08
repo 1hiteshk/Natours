@@ -82,7 +82,7 @@ h1{
 .hero_main{
     position: absolute;
     width: 100%;
-   background-image: linear-gradient(to top right ,rgba(0,0,0,0.8),rgba(0,0,0,0.5)),url(download.jpg);
+   background-image: linear-gradient(to top right ,rgba(0,0,0,0.8),rgba(0,0,0,0.5)),url(../../vendores/images/download.jpg);
     background-position: center;
     background-size: cover;
     height: 120vh;
